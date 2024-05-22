@@ -5,7 +5,7 @@
 }
 form{
     position: absolute;
-    top: 150px;
+    top: 130px;
     /* text-align: center; */
     left: 650px;
     font-size: 22px;
@@ -13,8 +13,13 @@ form{
 input{
     width: 200px;
     height: 3vh;
-    font-size: 16px;
-    padding: 20px 5px;
+    font-size: 14px;
+    padding: 20px 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+label{
+    padding-left: 10px;
 }
 .submit{
     position: absolute;
