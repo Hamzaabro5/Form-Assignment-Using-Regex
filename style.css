@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    position: absolute;
+    top: 150px;
+    /* text-align: center; */
+    left: 650px;
+    font-size: 22px;
+}
+input{
+    width: 200px;
+    height: 3vh;
+    font-size: 16px;
+    padding: 20px 0px;
+}   
