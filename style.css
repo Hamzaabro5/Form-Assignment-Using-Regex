@@ -14,5 +14,12 @@ input{
     width: 200px;
     height: 3vh;
     font-size: 16px;
-    padding: 20px 0px;
-}   
+    padding: 20px 5px;
+}
+.submit{
+    position: absolute;
+    right: 85px;
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+}
